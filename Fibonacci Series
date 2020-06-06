@@ -1,7 +1,8 @@
 a = 0
+i = 0
 b = 1
 c = a + b
-r = int(input("Enter o. of entries in series "))
+r = int(input("Enter no. of entries in series "))
 print(a)
 print(b)
 print(c)
